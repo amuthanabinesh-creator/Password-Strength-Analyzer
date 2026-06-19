@@ -31,6 +31,3 @@ git clone https://github.com/amuthanabinesh-creator/Password-Strength-Analyzer.g
 ```bash
 python password_analyzer.py
 ```
-
-## Author
-Amuthan Abinesh
